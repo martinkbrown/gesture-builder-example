@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="Try a Circle, Star, or Z"
+        android:text="@string/try_shape"
         android:textAppearance="?android:attr/textAppearanceMedium" />
         
     </RelativeLayout>

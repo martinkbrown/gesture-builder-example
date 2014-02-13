@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, GestureExampleActivity!</string>
     <string name="app_name">GestureBuilderExample</string>
+    <string name="try_shape">Try a Circle, Star, or Z</string>
 
 </resources>
